@@ -3,6 +3,8 @@ import './Header.scss'
 import posed from 'react-pose';
 import anime from 'animejs'
 
+import HeaderSvg from './HeaderSvg';
+
 const leftHeader = posed.div({
     enter: { x: 0, delay: 1000, opacity: 1 },
     exit: { x: 50, opacity: 0 }
@@ -37,7 +39,7 @@ class header extends Component {
                 easing: 'easeInOutQuart',
                 duration: 2000,
                 // delay: 1000,
-            })
+            }, 0)
             .add({
                 targets: '.logo-brand',
                 translateY: '-46vh',
@@ -45,7 +47,7 @@ class header extends Component {
                 easing: 'easeInOutQuart',
                 duration: 1000,
                 // delay: 1000,
-            })
+            }, 1000)
             .add({
                 targets: '.logo',
                 easing: 'easeInOutQuart',
@@ -81,21 +83,29 @@ class header extends Component {
                 easing: 'easeInOutQuart',
                 duration: 2000,
                 // delay: 1000,
-            })
+            }, 1700)
+            .add({
+                targets: '.headerSvg',
+                opacity: [0, 1],
+                translateY: '-20px',
+                easing: 'easeInOutQuart',
+                duration: 1000,
+                delay: anime.stagger(100)
+            }, 1500)
 
         let intro = anime({
             targets: ' .polymorph',
             width: '100%',
             easing: 'easeInOutQuart',
-            duration: 1500,
+            duration: 1000,
             complete: function (anim) {
 
                 anime({
                     targets: ' .polymorph',
                     width: '50%',
                     easing: 'easeInOutQuart',
-                    duration: 1500,
-                    delay: 1100
+                    duration: 800,
+                    delay: 800
                 });
                 tl.play();
             }
@@ -121,10 +131,10 @@ class header extends Component {
                 </svg>
 
                 <div className="top-nav">
-                    <a className="nav-item" href="">About</a>
-                    <a className="nav-item" href="">Courses</a>
-                    <a className="nav-item" href="">Works</a>
-                    <a className="nav-item" href="">Contact</a>
+                    <a className="nav-item" href="/">About</a>
+                    <a className="nav-item" href="/">Courses</a>
+                    <a className="nav-item" href="/">Works</a>
+                    <a className="nav-item" href="/">Contact</a>
                 </div>
 
 
@@ -134,6 +144,8 @@ class header extends Component {
                     </g>
                 </svg>
 
+                <HeaderSvg />
+
 
                 <svg className="design-label" width="140px" height="112px" viewBox="0 0 140 112" >
                     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -141,7 +153,7 @@ class header extends Component {
                     </g>
                 </svg>
 
-                <a href="" className="scroll-btn">SCROLL</a>
+                <a href="/" className="scroll-btn">SCROLL</a>
 
 
             </section>

@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="950" height="601" viewBox="0 0 950 601">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8f8;
+      }
+
+      .cls-2 {
+        fill: #272e40;
+      }
+
+      .cls-3 {
+        fill: rgba(13,13,13,0.07);
+      }
+
+      .cls-4, .cls-7 {
+        fill: #707070;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-17, .cls-18, .cls-4, .cls-5 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        fill: #d47cd1;
+      }
+
+      .cls-6 {
+        fill: #4aaadc;
+      }
+
+      .cls-17, .cls-18, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        fill: #f86565;
+      }
+
+      .cls-10 {
+        fill: #f5eda4;
+      }
+
+      .cls-11 {
+        fill: #9e9e9e;
+      }
+
+      .cls-12 {
+        fill: #e2bfe8;
+      }
+
+      .cls-13 {
+        fill: #a9d8b6;
+      }
+
+      .cls-14 {
+        fill: #e5de7c;
+      }
+
+      .cls-15 {
+        fill: #ff5851;
+      }
+
+      .cls-16 {
+        fill: #3c4864;
+      }
+
+      .cls-17 {
+        font-size: 25px;
+      }
+
+      .cls-18 {
+        font-size: 17px;
+      }
+
+      .cls-19 {
+        fill: rgba(116,55,55,0.34);
+      }
+
+      .cls-20 {
+        fill: rgba(219,41,41,0.44);
+      }
+
+      .cls-21 {
+        fill: rgba(255,255,255,0.26);
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_8);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_7);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_6);
+      }
+
+      .cls-25 {
+        filter: url(#Rectangle_2);
+      }
+    </style>
+    <filter id="Rectangle_2" x="0" y="0" width="950" height="601" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6" x="560" y="330" width="275" height="74" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7" x="560" y="396" width="275" height="74" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8" x="560" y="465" width="275" height="74" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="header-svg" transform="translate(-485 -250)">
+    <g class="cls-25" transform="matrix(1, 0, 0, 1, 485, 250)">
+      <path id="Rectangle_2-2" data-name="Rectangle 2" class="cls-1" d="M10,0H880a10,10,0,0,1,10,10V541a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(30 30)"/>
+    </g>
+    <path id="Rectangle_3" data-name="Rectangle 3" class="cls-2" d="M10,0H445a0,0,0,0,1,0,0V541a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(515 280)"/>
+    <path id="Rectangle_4" data-name="Rectangle 4" class="cls-3" d="M10,0H880a10,10,0,0,1,10,10V26a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(515 280)"/>
+    <text id="_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18" data-name="1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18" class="cls-4" transform="translate(541 340)"><tspan x="-5.391" y="0">1</tspan><tspan x="-5.391" y="27">2</tspan><tspan x="-5.391" y="54">3</tspan><tspan x="-5.391" y="81">4</tspan><tspan x="-5.391" y="108">5</tspan><tspan x="-5.391" y="135">6</tspan><tspan x="-5.391" y="162">7</tspan><tspan x="-5.391" y="189">8</tspan><tspan x="-5.391" y="216">9</tspan><tspan x="-10.781" y="243">10</tspan><tspan x="-10.781" y="270">11</tspan><tspan x="-10.781" y="297">12</tspan><tspan x="-10.781" y="324">13</tspan><tspan x="-10.781" y="351">14</tspan><tspan x="-10.781" y="378">15</tspan><tspan x="-10.781" y="405">16</tspan><tspan x="-10.781" y="432">17</tspan><tspan x="-10.781" y="459">18</tspan></text>
+    <text id="import_React_from_react_import_styles_from_._App.css_import_Nav_from_.._components_Nav_const_App_div_className_styles.hacking_Nav_h1_code_code_code_h1_ul_li_hacking_li_" data-name="import React from &apos;react&apos;;
+import styles from &apos;./App.css&apos;;
+import Nav from &apos;../components/Nav&apos;;
+
+const App = () =&gt; (
+    &lt;div className={styles.hacking}&gt;
+       &lt;Nav /&gt;
+       &lt;h1&gt;code, code, code&lt;/h1&gt;
+       &lt;ul&gt;
+            &lt;li&gt;hacking&lt;/li&gt;
+            &lt;" class="cls-5" transform="translate(564 340)"><tspan x="0" y="0">import </tspan><tspan class="cls-6" y="0">React </tspan><tspan y="0">from </tspan><tspan class="cls-7" y="0">&apos;react&apos;</tspan><tspan class="cls-8" y="0">;</tspan><tspan x="0" y="27">import </tspan><tspan class="cls-6" y="27">styles </tspan><tspan y="27">from </tspan><tspan class="cls-7" y="27">&apos;./App.css&apos;</tspan><tspan class="cls-8" y="27">;</tspan><tspan x="0" y="54">import </tspan><tspan class="cls-6" y="54">Nav </tspan><tspan y="54">from </tspan><tspan class="cls-7" y="54">&apos;../components/Nav&apos;</tspan><tspan class="cls-8" y="54">;</tspan><tspan class="cls-7" y="54"></tspan><tspan class="cls-9"><tspan x="0" y="81"></tspan><tspan x="0" y="108">const</tspan><tspan class="cls-10" y="108" xml:space="preserve"> App</tspan><tspan class="cls-8" y="108" xml:space="preserve"> = ()</tspan><tspan y="108" xml:space="preserve"> =&gt;</tspan><tspan class="cls-8" y="108" xml:space="preserve"> (</tspan></tspan><tspan class="cls-8"><tspan x="0" y="135" xml:space="preserve">   </tspan><tspan class="cls-11" y="135" xml:space="preserve"> &lt;</tspan><tspan class="cls-9" y="135">div</tspan><tspan class="cls-12" y="135" xml:space="preserve"> className</tspan><tspan class="cls-11" y="135">=</tspan><tspan class="cls-13" y="135">{styles.hacking</tspan><tspan class="cls-11" y="135">}&gt;</tspan></tspan><tspan class="cls-11"><tspan x="0" y="162" xml:space="preserve">       &lt;</tspan><tspan class="cls-9" y="162">Nav</tspan><tspan y="162" xml:space="preserve"> /&gt;</tspan><tspan x="0" y="189" xml:space="preserve">       &lt;</tspan><tspan class="cls-9" y="189">h1</tspan><tspan class="cls-8" y="189">&gt;code, code, code</tspan><tspan y="189">&lt;/</tspan><tspan class="cls-9" y="189">h1</tspan><tspan y="189">&gt;</tspan><tspan x="0" y="216" xml:space="preserve">       &lt;</tspan><tspan class="cls-9" y="216">ul</tspan><tspan y="216">&gt;</tspan><tspan x="0" y="243" xml:space="preserve">            &lt;</tspan><tspan class="cls-9" y="243">li</tspan><tspan y="243">&gt;</tspan><tspan class="cls-8" y="243">hacking</tspan><tspan y="243">&lt;/</tspan><tspan class="cls-9" y="243">li</tspan><tspan y="243">&gt;</tspan><tspan x="0" y="270" xml:space="preserve">            &lt;</tspan><tspan class="cls-9" y="270">li</tspan><tspan y="270">&gt;</tspan><tspan class="cls-8" y="270">hacking</tspan><tspan y="270">&lt;/</tspan><tspan class="cls-9" y="270">li</tspan><tspan y="270">&gt;</tspan><tspan x="0" y="297" xml:space="preserve">            &lt;</tspan><tspan class="cls-9" y="297">li</tspan><tspan y="297">&gt;</tspan><tspan class="cls-8" y="297">hacking</tspan><tspan y="297">&lt;/</tspan><tspan class="cls-9" y="297">li</tspan><tspan y="297">&gt;</tspan><tspan x="0" y="324" xml:space="preserve">       &lt;/</tspan><tspan class="cls-9" y="324">ul</tspan><tspan y="324" xml:space="preserve">&gt;  </tspan><tspan x="0" y="351" xml:space="preserve">    &lt;/</tspan><tspan class="cls-9" y="351">div</tspan><tspan y="351">&gt;</tspan><tspan class="cls-8" y="351"></tspan></tspan><tspan class="cls-8"><tspan x="0" y="378">)</tspan></tspan><tspan x="0" y="405"></tspan><tspan x="0" y="432">export default</tspan><tspan class="cls-8" y="432" xml:space="preserve"> App;</tspan></text>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-14" cx="7.5" cy="7.5" r="7.5" transform="translate(1337 286)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-9" cx="7.5" cy="7.5" r="7.5" transform="translate(1362 286)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-13" cx="7.5" cy="7.5" r="7.5" transform="translate(1312 286)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-15" width="445" height="245" transform="translate(960 306)"/>
+    <g class="cls-24" transform="matrix(1, 0, 0, 1, 485, 250)">
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" class="cls-16" width="239" height="38" rx="10" transform="translate(578 348)"/>
+    </g>
+    <g class="cls-23" transform="matrix(1, 0, 0, 1, 485, 250)">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" class="cls-16" width="239" height="38" rx="10" transform="translate(578 414)"/>
+    </g>
+    <g class="cls-22" transform="matrix(1, 0, 0, 1, 485, 250)">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" class="cls-16" width="239" height="38" rx="10" transform="translate(578 483)"/>
+    </g>
+    <text id="Hello_My_Name_Is_Eli_Marshall" data-name="Hello, My Name Is 
+Eli Marshall" class="cls-17" transform="translate(1188 423)"><tspan x="-104.114" y="0">Hello, My Name Is </tspan><tspan x="-62.524" y="33">Eli Marshall</tspan></text>
+    <text id="_Front_End_Developer_App_Developer_Designer_" data-name="
+Front End Developer
+
+
+App Developer
+
+
+Designer
+" class="cls-18" transform="translate(1188 601)"><tspan x="0" y="0"></tspan><tspan x="-76.907" y="22">Front End Developer</tspan><tspan x="0" y="44"></tspan><tspan x="0" y="66"></tspan><tspan x="-56.163" y="88">App Developer</tspan><tspan x="0" y="110"></tspan><tspan x="0" y="132"></tspan><tspan x="-33.286" y="154">Designer</tspan><tspan x="0" y="176"></tspan></text>
+    <path id="Path_1" data-name="Path 1" class="cls-19" d="M960,560.834c230.112-77.726,449.438,0,449.438,0Z" transform="translate(0 -8.334)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-20" d="M960,517.753s136.629,43.146,212.135,7.191,231.91-7.191,231.91-7.191v30.562H960Z" transform="translate(1 2)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-8" width="15" height="2" rx="1" transform="translate(1362 331)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-8" width="15" height="2" rx="1" transform="translate(1362 326)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-8" width="15" height="2" rx="1" transform="translate(1362 321)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-21" cx="10" cy="10" r="10" transform="translate(1010 361)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-21" cx="5" cy="5" r="5" transform="translate(1149 339)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-21" cx="7.5" cy="7.5" r="7.5" transform="translate(1327 462)"/>
+  </g>
+</svg>
