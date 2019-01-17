@@ -1,0 +1,65 @@
+@import '../../styles/variables.scss';
+
+.header-container {
+
+    .header-left {
+        width: 100%;
+        height: 100%;
+        background: $primary-color;
+
+    }
+}
+
+.top-nav {
+    top: 30px;
+    right: 40px;
+    position: absolute;
+    
+    .nav-item {
+        padding: 15px;
+        text-decoration: none;
+        font-size: 0.8rem;
+        color: #272E3F;
+    }
+
+}
+
+.scroll-btn {
+    bottom: 30px;
+    position: absolute;
+    left: calc(50vw - 30px);
+    text-decoration: none;
+    color: white;
+    font-size: 0.6rem;
+}
+
+.logo-brand {
+    // top: 30px;
+    // left: 40px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+
+.code-label {
+    position: absolute;
+    top: calc(50% - 56px);
+    left: 30px;
+}
+.design-label {
+    position: absolute;
+    top: calc(50% - 56px);
+    right: 30px;
+}
+
+
+.svgHero {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.polymorph {
+    // position: absolute;
+}
