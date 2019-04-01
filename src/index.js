@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import RootContainer from './containers/RootContainer';
+import Root from './components'
 import * as serviceWorker from './serviceWorker';
-import { BrowserRouter} from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 
 ReactDOM.render(
     <BrowserRouter>
-        <RootContainer />
+        <Root />
     </BrowserRouter>
     
     , document.getElementById('root'));
