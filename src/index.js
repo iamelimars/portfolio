@@ -4,12 +4,16 @@ import './index.css';
 import Root from './components'
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from 'react-router-dom';
-
+import { Provider } from 'react-redux';
+import { store } from './createStore';
 
 ReactDOM.render(
-    <BrowserRouter>
-        <Root />
-    </BrowserRouter>
+    <Provider store={store}>
+        <BrowserRouter>
+            <Root />
+        </BrowserRouter>
+    </Provider>
+   
     
     , document.getElementById('root'));
 
