@@ -19,10 +19,7 @@
     }
 }
 
-@media screen and (max-width: $breakpoint-md) {
-    
-    
-}
+
 
 .scroll-btn {
     top: 90vh;
@@ -44,9 +41,18 @@
 
 .code-label {
     position: relative;
-    top: calc(50% - 86px);
+    // top: calc(50% - 86px);
+    top: calc(50% - 171px);   
     left: 30px;
 
+}
+
+@media screen and (max-width: 915px) {
+     
+    .code-label {
+        // top: calc(50% - 174px);    
+        top: calc(50% - 86px);
+    }
 }
 .design-label {
     position: relative;
