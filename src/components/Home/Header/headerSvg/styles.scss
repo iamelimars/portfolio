@@ -1,0 +1,15 @@
+@import '../../../../styles/variables.scss';
+
+.headerSvg {
+    position: absolute;
+    top: calc(50% - 140px);
+    left: calc(50% - 271px);
+}
+
+@media screen and (max-width: 915px) {
+    
+    .headerSvg {
+        display: none;
+    }
+    
+}
